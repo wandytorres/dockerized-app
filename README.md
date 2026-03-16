@@ -1,21 +1,5 @@
-# dockerized-app
-Projects
-AWS Basic Infrastructure
-Deploy EC2 instance and configure Docker.
+# DevOps Learning Journey
 
-Dockerized Application
-Containerized web application deployed on AWS EC2 using Docker.
+![Docker Build](https://github.com/wandytorres/dockerized-app/actions/workflows/docker-build.yml/badge.svg)
 
-Repository: https://github.com/wandytorres/dockerized-app
-
-Kubernetes Deployment
-Deploy Docker app to Kubernetes cluster using Deployment and Service.
-
-Terraform Infrastructure
-Provision AWS infrastructure using Terraform.
-
-CI/CD Pipeline
-Automated Docker build and push using GitHub Actions.
-
-Observability Stack
-Monitoring infrastructure using Prometheus and Grafana.
+This repository documents my 90-day journey learning DevOps, Cloud and Infrastructure Automation.
